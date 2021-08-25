@@ -8,15 +8,16 @@
 
 # Run Code [COLAB LINK](https://colab.research.google.com/drive/18bNU8SmolICvEZExZIurBvxXln1f1tBO?invite=CLqgwM0D#scrollTo=wd09sNiPEScM)
 
-- Run Code Without Installations Requirements
-- Interactive .ipynb Python Notebook For Results
+- Run Code In Browser
+- Don't Need Manual Installations
+- A Interactive .ipynb Python Notebook For Results
 
 
 
 
 # Overview
 
-Flow Diagram
+**Flow Diagram**
 
 ![Flow Diagram](./utils/flow.png)
 
