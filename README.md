@@ -33,7 +33,7 @@ Uses the extracted reviews and performs
 
 2) Apply Transformer Based Deeplearning NLP Model For Topic Modelling
 
-3) Outputs the extracted topics and saves the Interactive Visual Graphs to
+3) Outputs the extracted topics and saves the Interactive Visual Report to
 
         ./Visual_Outputs/InterTopicsDistance.html
         
