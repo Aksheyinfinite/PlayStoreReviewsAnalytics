@@ -1,0 +1,4 @@
+pandas
+matplotlib
+bertopic
+google_play_scraper
