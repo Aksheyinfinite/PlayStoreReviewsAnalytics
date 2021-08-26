@@ -6,7 +6,7 @@
     Python3.7
     pip install requirements.txt
 
-# Run Code [COLAB LINK](https://colab.research.google.com/drive/18bNU8SmolICvEZExZIurBvxXln1f1tBO?invite=CLqgwM0D#scrollTo=wd09sNiPEScM)
+# Run Code [ONLINE](https://colab.research.google.com/drive/18bNU8SmolICvEZExZIurBvxXln1f1tBO?invite=CLqgwM0D#scrollTo=wd09sNiPEScM)
 
 - Run Code In Browser
 - Don't Need Manual Installations
